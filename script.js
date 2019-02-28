@@ -99,7 +99,7 @@ function l(){
 	if (i == 0 ){
 			document.images["rocka"].src ="images/back.png";
 			document.images["rockb"].src="images/back.png";
-			document.images["rockb"].src = "images/back.png";
+			document.images["rockc"].src = "images/back.png";
 		  document.getElementById("change").style.backgroundImage = "url('images/wall.jpg')";
 			d.style.display = "block";
 		  document.images["window"].src = "images/back.png";
